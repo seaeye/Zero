@@ -12,5 +12,10 @@ namespace Zero.Service.Code
         /// 对象ID
         /// </summary>
         public string ObjectID { get; set; }
+
+        /// <summary>
+        /// 对象添加时间
+        /// </summary>
+        public string AddTime { get; set; }
     }
 }
