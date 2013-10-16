@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zero.Service.Code
 {
-    public class Class2
+    public class FuckModel2
     {
         public string GoodName { get; set; }
     }
